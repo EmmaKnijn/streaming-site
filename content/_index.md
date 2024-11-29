@@ -1,10 +1,7 @@
 # Shifting the way streaming works
 ### Supporting artists, while keeping premier audio quality and respecting users' freedom of choice, that is our goal
+
 <br>
-{{< button href="#button" target="https://player.streaming.knijn.one" >}}
-Open the web player
-{{< /button >}}
-<br><br>
 {{< alert >}}
 We are currently still in beta!
 {{< /alert >}}
