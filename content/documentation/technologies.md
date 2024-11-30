@@ -2,7 +2,6 @@
 date: 2024-11-29
 title: Technologies
 description: The various technologies we use
-feature: technology-785742_1920.jpg
 ---
 
 We use various FOSS technologies and projects to run our service.
