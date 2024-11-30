@@ -4,13 +4,11 @@ title: Technologies
 description: The various technologies we use
 ---
 
-We use various FOSS technologies and projects to run our service.
+We use various open source technologies and projects to run our service.
 
-## Navidrome
+## [Navidrome](https://www.navidrome.org/)
 The core of our streaming service relies on Navidrome, the versitile media server. It allows users to play music seamlessly and for them to bring their own music player too.
 
-## Feishin
-This powers our web player.
+## [Feishin](https://github.com/jeffvli/feishin)
 
-## Hugo
-Hugo runs our website, with the congo theme. This is then served using Cloudflare Pages.
+## [Hugo](https://gohugo.io)
