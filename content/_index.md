@@ -17,9 +17,9 @@ We are currently still in beta!
 - Not here just to make a profit, but to make the music industry better.
 
 ## Want to sign up?
-You can do so, please contact EmmaKnijn using the methods linked [on her site](https://knijn.one).
-During the beta period, access will be free until we have a billing system.
+Go to our [billing portal](https://billing.streaming.knijn.one) to order an account and get access to our library.
+If it takes more than a day to receive an account, please contact EmmaKnijn using the methods linked [on her site](https://knijn.one).
 
 ## Are you an artist or a developer?
-Feel free to reach out too! We're looking for people willing to contribute.
+Feel free to reach out! We're looking for people willing to contribute.
 Please contact EmmaKnijn using the methods linked [on her site](https://knijn.one).
