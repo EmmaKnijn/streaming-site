@@ -15,6 +15,10 @@
   url = "https://player.streaming.knijn.one"
   weight = 10
 [[main]]
+  name = "Service Status"
+  url = "https://uptime.knijn.one/status/streaming"
+  weight = 10
+[[main]]
   name = "Documentation"
   pageRef = "documentation"
   weight = 10
