@@ -20,6 +20,12 @@ We are currently still in beta!
 Go to our [billing portal](https://billing.streaming.knijn.one) to order an account and get access to our library.
 If it takes more than a day to receive an account, please contact EmmaKnijn using the methods linked [on her site](https://knijn.one).
 
+## Artists
+This is a comprehensive list of artists we have on the platform
+
+- [Ditorism](https://ditorism.bandcamp.com)
+- [hypersexuality](https://e-z.bio/gabrielle)
+
 ## Are you an artist or a developer?
 Feel free to reach out! We're looking for people willing to contribute.
 Please contact EmmaKnijn using the methods linked [on her site](https://knijn.one).
