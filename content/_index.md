@@ -6,7 +6,7 @@
 We are currently still in beta!
 {{< /alert >}}
 
-**Interested? Join [our discord](https://discord.gg/TVeB73nM)**
+**Interested? Join [our Discord server!](https://discord.gg/RPwSEHw2vA)**
 
 ## What do we do different?
 - Fair monetary payment to artists
