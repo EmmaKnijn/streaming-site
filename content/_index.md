@@ -13,7 +13,7 @@ We are currently still in beta!
 - Users can bring their **own** music player
 - Direct contact with artists
 - Directly serving artists' files with **no** quality loss
-- Small, but good library
+- Small, but focused library
 - Not here just to make a profit, but to make the music industry better.
 
 ## Want to sign up?
